@@ -34,6 +34,7 @@ Involved in Chennai Go community for ~6 months
   * Channels
 
 ---
+class: center, middle
 
 # Simple Scraper
 
