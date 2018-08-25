@@ -26,12 +26,12 @@ Involved in Chennai Go community for ~6 months
 
 # Agenda
 
-1. A simple scrapper
-2. Making the scrapper concurrent
-* Go routines
-* sync.WaitGroup
-* Mutexes
-* Channels
+* A simple scrapper
+* Making the scrapper concurrent
+  * Go routines
+  * sync.WaitGroup
+  * Mutexes
+  * Channels
 
 ---
 
