@@ -63,8 +63,8 @@ JSON Streams to JSON array
 
 # Channels
 
-* Buffered
-* Unbuffered
+* Unbuffered (1 item)
+* Buffered (n items)
 
 ---
 class: center, middle
