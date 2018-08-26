@@ -18,7 +18,7 @@ class: center, middle
 
 Lead Technical Consultant @ Tarka Labs
 
-Ex-ThoughtWorker, Ex-BrowserStackian, Independent Consultant
+ex-ThoughtWorker, ex-BrowserStackian, Independent Consultant
 
 Involved in Chennai Go community for ~6 months
 
