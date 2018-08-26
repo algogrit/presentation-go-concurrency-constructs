@@ -72,6 +72,15 @@ class: center, middle
 ![Go](assets/images/go-routines-channels.png)
 
 ---
+
+# References
+
+* Rob Pike's ["Go Concurrency Patterns"](https://www.youtube.com/watch?v=f6kdp27TYZs)
+* Vagmi Mudumbai's ["Thinking in Go"](https://www.youtube.com/watch?v=6ce54mscaKo)
+* [Tour of Go](https://tour.golang.org/concurrency)
+* Go by example - [Mutexes](https://gobyexample.com/mutexes)
+
+---
 class: center, middle
 
 ![Mic Drop](assets/images/gopher-mic-drop-small.png)
