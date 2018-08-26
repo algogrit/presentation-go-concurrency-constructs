@@ -26,8 +26,8 @@ Involved in Chennai Go community for ~6 months
 
 # Agenda
 
-* A simple scrapper
-* Making the scrapper concurrent
+* A simple scraper
+* Making the scraper concurrent
   * Go routines
   * sync.WaitGroup
   * Mutexes
