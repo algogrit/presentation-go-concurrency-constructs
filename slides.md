@@ -1,6 +1,6 @@
 layout: true
 
-.signature[@gauravagarwalr]
+.signature[@algogrit]
 
 ---
 
@@ -87,4 +87,4 @@ class: center, middle
 
 Code: https://github.com/Chennai-Golang/go-concurrency-constructs
 
-Slides: https://go-concurrency.presentation.gauravagarwalr.com
+Slides: https://go-concurrency.slides.algogrit.com
